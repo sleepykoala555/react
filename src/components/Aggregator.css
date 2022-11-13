@@ -1,0 +1,25 @@
+.card {
+	/* Add shadows to create the "card" effect */
+  width:fit-content;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	transition: 0.3s;
+	border: 1px solid #bacdd8;
+	padding: 8px;
+	border-radius: 12px; 
+	background-color: aliceblue;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  }
+
+  .img {
+    max-width: 100%;  
+    height:flex;  
+    object-fit: cover; 
+  }
+
+.p {
+	font-size: 14px;
+	color: #7f8c9b;
+	line-height: 150%;
+  }

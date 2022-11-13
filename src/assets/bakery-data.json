@@ -1,0 +1,161 @@
+[
+  {
+    "name": "Strawberry Cheezo",
+    "calories": 620,
+    "restrictions": "cold and hot", 
+    "type":"cheezo fruit tea",
+    "description": "Fresh strawberry juice and jasmine tea smoothie, topped with cheese foam",
+    "price": 8.30,
+    "image": "images/anika.png",
+    "pop": 3
+  },
+  {
+    "name": "Very Grape Cheezo",
+    "calories": 670,
+    "restrictions": "cold only", 
+    "type":"cheezo fruit tea",
+    "description": "Fresh grape juice and jasmine tea smoothie, topped with cheese foam",
+    "price": 9.50,
+    "image": "images/aubrey.png",
+    "pop": 6
+  },
+  {
+    "name": "Melon Cheezo",
+    "calories": 650,
+    "restrictions": "cold only", 
+    "type":"cheezo fruit tea",
+    "description": "Fresh melon juice and jasmine tea smoothie, topped with cheese foam",
+    "price": 6.80,
+    "image": "images/connie.png",
+    "pop": 13
+  },
+  {
+    "name": "Mango Cheezo",
+    "calories": 690,
+    "restrictions": "cold only", 
+    "type":"cheezo fruit tea",
+    "description": "Fresh mango juice and jasmine tea smoothie, topped with cheese foam",
+    "price": 7.90,
+    "image": "images/dylan.png",
+    "pop": 1
+  },
+
+  {
+    "name": "Peach Cheezo",
+    "calories": 658,
+    "restrictions": "cold and hot", 
+    "type":"cheezo fruit tea",
+    "description": "A soft gingerbread cookie with a sweet icing glaze",
+    "price": 7.20,
+    "image": "images/nick.png",
+    "pop": 4
+  },
+
+  {
+    "name": "Redbeen Bobo",
+    "calories": 620,
+    "restrictions": "cold and hot", 
+    "type":"bobo milk tea",
+    "description": "Bobo milk tea topped with redbeens",
+    "price": 5.90,
+    "image": "images/isaac.png",
+    "pop": 3
+  },
+
+  {
+    "name": "Brown Sugar Bobo",
+    "calories": 643,
+    "restrictions": "cold and hot", 
+    "type":"bobo milk tea",
+    "description": "Bobo milk tea coated with brown sugar",
+    "price": 4.90,
+    "image": "images/jeff.png",
+    "pop": 4
+  },
+  {
+    "name": "Milk Tea Bobo",
+    "calories": 510,
+    "restrictions": "cold only", 
+    "type":"bobo milk tea",
+    "description": "Bobo milk tea with lots of bubbles",
+    "price": 4.00,
+    "image": "images/jenny.png",
+    "pop": 7
+  },
+  {
+    "name": "Taro Blask Boboshake",
+    "calories": 540,
+    "restrictions": "cold only", 
+    "type":"bobo milk tea",
+    "description": "Bobo milk tea with fresh taro",
+    "price": 5.60,
+    "image": "images/jessie.png",
+    "pop": 8
+  },
+
+  {
+    "name": "Macha Boboshake",
+    "calories": 463,
+    "restrictions": "cold and hot", 
+    "type":"bobo milk tea",
+    "description": "Bobo milk tea with Japanese macha powder",
+    "price": 5.20,
+    "image": "images/kelly.png",
+    "pop": 14
+  },
+
+  {
+    "name": "Grapefruit Boom",
+    "calories": 234,
+    "restrictions": "cold and hot", 
+    "type":"fruity boom",
+    "description": "Fresh grapefruit juice",
+    "price": 6.80,
+    "image": "images/lauren.png",
+    "pop": 1
+  },
+
+  {
+    "name": "Orange Boom",
+    "calories": 387,
+    "restrictions": "cold only", 
+    "type":"fruity boom",
+    "description": "Fresh orange juice",
+    "price": 5.80,
+    "image": "images/michael.png",
+    "pop": 10
+  },
+  {
+    "name": "Watermelon Boon",
+    "calories": 298,
+    "restrictions": "cold only",
+    "type":"fruity boom", 
+    "description": "Fresh watermelon juice",
+    "price": 4.80,
+    "image": "images/miku.png",
+    "pop": 2
+  },
+
+  {
+    "name": "American expresso",
+    "calories": 20,
+    "restrictions": "cold and hot", 
+    "type":"coffee",
+    "description": "Fresh expresso with Brazilian coco",
+    "price": 3.90,
+    "image": "images/sunny.png",
+    "pop": 12
+  },
+
+  {
+    "name": "Cononut Latte",
+    "calories": 230,
+    "restrictions": "cold and hot", 
+    "type":"coffee",
+    "description": "Coffee with coconut milk",
+    "price": 4.90,
+    "image": "images/tongyu.png",
+    "pop": 13
+  }
+
+]
